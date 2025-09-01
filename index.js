@@ -5,5 +5,7 @@ function dropTears(tears){
     console.log(tears);
 }
 
+console.log(tears);
+
 const bottone = document.getElementById('lacrime');
 bottone.addEventListener('click', dropTears);
